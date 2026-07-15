@@ -9,30 +9,30 @@
     |hash=ib6ab339a
   ]
   |definitionProperties=[
-    |version=n27
+    |version=n29
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000027.txt
+    |path=$lang0000/definitionProperties/00000029.txt
     |compression=i0
     |size=ice3e5
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n13
+    |version=n15
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000013.txt
+    |path=$lang0000/categoryFlags/00000015.txt
     |compression=i0
     |size=iaf32
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n28
+    |version=n29
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000028.txt
+    |path=$lang0000/txtEffectIcons/00000029.txt
     |compression=i0
-    |size=i272a
+    |size=id0000
     |hash=ib6ab339a
   ]
   |terrainOverviewFilters=[
@@ -596,6 +596,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
   ]
+  |paintDarkMaroon=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i45e6
+    |path=$lang0000/icons/paint_dark_maroon/00000001.png
+  ]
   |sparkTeleportDevice=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i599f
     |path=$lang0000/icons/spark_teleport_device/00000000.png
@@ -664,6 +668,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i12d4e8
     |path=$lang0000/gfx/symbiont_v2/00000000.a3m
   ]
+  |gfx_waspish=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=id1394
+    |path=$lang0000/gfx/waspish/00000000.a3m
+  ]
   |icon_dreadnought_module=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i576d
     |path=$lang0000/icons/item_dreadnought_module/00000000.png
@@ -703,6 +711,10 @@
   |icon_effect_excavator_mode=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib26
     |path=$lang0000/icons/effect_excavator_mode/00000000.png
+  ]
+  |icon_effect_synergy=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7c3
+    |path=$lang0000/icons/effect_synergy/00000000.png
   ]
   |icon_ammo_mass_harvesting=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4a42
@@ -1507,5 +1519,85 @@
   |zoneDataCache=[
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
+  ]
+  |snd_3d_robots_move_engine_waspish_engine=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine/00000000.xm
+    |compression=i0
+    |size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_1=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_1/00000000.xm
+    |compression=i0
+    |size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_2=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_2/00000000.xm
+    |compression=i0
+    |size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_3=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_3/00000000.xm
+    |compression=i0
+    |size=i8481c
+  ]
+  |textures_terrain_set01_tm_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set01_tm_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i4277a55
+  ]
+  |textures_terrain_set01_tm_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set01_tm_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i136Faed
+  ]
+  |textures_terrain_set02_ics_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set02_ics_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i3f015db
+  ]
+  |textures_terrain_set02_ics_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set02_ics_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i10ac394
+  ]
+  |textures_terrain_set03_asi_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set03_asi_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i3f93cde
+  ]
+  |textures_terrain_set03_asi_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set03_asi_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i109809d
   ]
 ]#date=$2024-03-26-00-00-00#dummy=$knjkqdmkmn
